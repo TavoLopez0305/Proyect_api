@@ -20,7 +20,7 @@ let notes = [
   },
   {
     id: 3,
-    content: 'Repasar los retos de JS de la kata 2',
+    content: 'Repasar los retos de JS de la kata 2"',
     date: '2019-05-30T19:20:14.298Z',
     important: true,
   },
